@@ -2,6 +2,7 @@
 There are 03 different Tasks designed for practice and understanding the basics of deep learning for Computer Vision.
 ## Task-1
 I have designed a simple convolution neural network for numeric digit classification. The provided dataset consists of three classes and the structure is as below:
+
 hand_written_digits/
       0_digits/
         File1.jpg
